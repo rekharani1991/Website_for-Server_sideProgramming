@@ -1,6 +1,8 @@
 <?php    //login.php
+    
+// fill username and password detials here in ''
 $hn = 'localhost';
-$un = 'love';
-$pw = 'love';
-$db = 'prince';
+$un = '';
+$pw = '';
+$db = '';
 ?>
